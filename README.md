@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=U83BhtQT8Xg
 
 ![4 3 SSD1963 74HC595 TFT STM32 STM32F401 TOUCH](https://github.com/offpic/SSD1963-16-BIT-74HC595-STM32-TFT-STM32F401/assets/31142397/68bb2cf1-b81d-4caa-8e77-313f293eac48)
 
